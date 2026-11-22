@@ -1,0 +1,16 @@
+generator,algorithm,expanded,path_steps
+Backtracker,BFS,1878.8,152.9
+Backtracker,DFS,612.7,404.9
+Backtracker,Dijkstra,1878.8,152.9
+Backtracker,A*,1006.4,152.9
+Backtracker,Greedy,257.0,194.4
+Prim,BFS,1923.0,118.9
+Prim,DFS,705.1,293.4
+Prim,Dijkstra,1923.0,118.9
+Prim,A*,626.6,118.9
+Prim,Greedy,350.6,160.9
+Kruskal,BFS,1889.4,131.1
+Kruskal,DFS,728.5,315.6
+Kruskal,Dijkstra,1889.4,131.1
+Kruskal,A*,753.7,131.1
+Kruskal,Greedy,243.2,156.3
